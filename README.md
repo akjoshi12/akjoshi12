@@ -5,10 +5,7 @@
  
 ## You will find me here:
 <p align="center">
- <a href="https://www.linkedin.com/in/abhishek-pandey-1515aa171/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="snjydas" height="40" width="30" /></a>
-<a href="https://www.facebook.com/profile.php?id=100005642252090" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="snjydas251297" height="30" width="40" /></a>
-<a href="https://instagram.com/_abhishek__pandey___" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="geekyslayer" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@abhishek10548" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@snjydas" height="30" width="40" /></a> -->
+ <a href="https://www.linkedin.com/in/atrijoshi//" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="snjydas" height="40" width="30" /></a>
 </p>
 
 ## About Me:
