@@ -1,7 +1,7 @@
 <h1 align="center"><h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Atri Joshi</h1>
 
  
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
+<img align='right' src="https://www.sanitysoftwares.com/imagg/software-development1.gif" width="230"> 
  
 ## You will find me here:
 <p align="center">
