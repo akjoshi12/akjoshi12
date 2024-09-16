@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Python, Datascience, Web Development & Machine Learning and Generative AI**.
 
-- 📫 How to reach me **abhi526691shek@gmail.com**.
+- 📫 How to reach me **atrijoshi12@gmail.com**.
 
 - ⚡ Fun fact **I would love to explore new thing and work on new technologies**.
 
