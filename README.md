@@ -58,17 +58,6 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)&nbsp;
   ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=FastAPI)
-  ![ReactJs](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-  
  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
@@ -82,7 +71,8 @@
 - 📦 &nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure)
-  ![Adobe](https://img.shields.io/badge/-Adobe-333333?style=flat&logo=Adobe)
+  ![DataBricks](https://img.shields.io/badge/-DataBricks-333333?style=flat&logo=DataBricks)
+  
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
