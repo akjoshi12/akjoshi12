@@ -72,6 +72,8 @@
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure)
   ![DataBricks](https://img.shields.io/badge/-DataBricks-333333?style=flat&logo=DataBricks)
+  ![PySpark](https://img.shields.io/badge/-PySpark-333333?style=flat&logo=PySpark)
+  
   
   
 - 🔧 &nbsp;
