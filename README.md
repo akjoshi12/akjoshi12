@@ -10,7 +10,7 @@
 
 ## About Me:
 
-- 🌱 I’m currently learning **Generative AI & Machine Learning**.
+- 🌱 I’m currently learning **AI and Data Science**.
 
 - 👯 I’m looking to collaborate on [Loading]().
 
