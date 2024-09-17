@@ -81,7 +81,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Anaconda](https://img.shields.io/badge/-anaconda-333333?style=flat&logo=anaconda&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-postman-333333?style=flat&logo=postman&logoColor=007ACC)
-  ![Netbeans](https://img.shields.io/badge/-netbeans-333333?style=flat&logo=netbeans&logoColor=007ACC)
 
 
 ## Tools I work upon : 🛠
@@ -98,12 +97,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-## 👯 Communities
-* FullStack Developer at Dimensionless Technologies
-* Associate Software Developer at Ameex Technologies
-* web Developer at Samarthya
-* Web Developer at Magneta
-* Cheif Igniter, VelTech D2C Club.
+
 
 ## My Stats:
 
