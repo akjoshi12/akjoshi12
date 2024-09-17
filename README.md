@@ -14,8 +14,6 @@
 
 - 👯 I’m looking to collaborate on [Loading]().
 
-- 📝 I regulary write articles on [medium.](https://medium.com/@abhishek10548).
-
 - 💬 Ask me about **Python, Datascience, Data Engineering ,Machine Learning and Generative AI**.
 
 - 📫 How to reach me **atrijoshi12@gmail.com**.
