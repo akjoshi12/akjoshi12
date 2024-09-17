@@ -16,7 +16,7 @@
 
 - 📝 I regulary write articles on [medium.](https://medium.com/@abhishek10548).
 
-- 💬 Ask me about **Python, Datascience, Web Development & Machine Learning and Generative AI**.
+- 💬 Ask me about **Python, Datascience, Data Engineering ,Machine Learning and Generative AI**.
 
 - 📫 How to reach me **atrijoshi12@gmail.com**.
 
@@ -24,8 +24,8 @@
 
 🤔 Looking for a job which would help me make most of my skills.
 
-&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1QKPe9mPgyoXDFQYY5pjAgsD0KT2bgVzD/view?usp=sharing)*
-&nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://www.linkedin.com/in/abhishek-pandey-1515aa171/)*
+&nbsp; &nbsp; *[View My Profile](https://www.linkedin.com/in/atrijoshi/)*
+&nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://www.linkedin.com/in/atrijoshi/)*
 <br />
 
 ## Tech Stack
