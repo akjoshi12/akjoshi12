@@ -6,7 +6,7 @@
 ## You will find me here:
 <p align="center">
  <a href="https://www.linkedin.com/in/atrijoshi//" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="snjydas" height="40" width="30" /></a>
-<p align="center">
+< align="center">
  <a href="https://www.kaggle.com/joshiatri" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="snjydas" height="40" width="30" /></a>
  
 </p>
