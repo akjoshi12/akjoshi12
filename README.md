@@ -8,7 +8,7 @@
  <a href="https://www.linkedin.com/in/atrijoshi//" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="snjydas" height="40" width="30" /></a>
  <a href="https://www.kaggle.com/joshiatri" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="snjydas" height="40" width="30" /></a>
 
- <a href="https://leetcode.com/u/mythophile/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/leetcode/images/1f27e737-4847-49da-80b2-eb08dbd3467f.html" alt="snjydas" height="40" width="30" /></a>
+ <a href="https://leetcode.com/u/mythophile/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=512" alt="snjydas" height="40" width="30" /></a>
 
 
  
