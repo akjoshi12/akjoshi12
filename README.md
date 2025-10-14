@@ -1,146 +1,64 @@
-<h1 align="center"><h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Atri Joshi</h1>
-
- 
-<img align='right' src="https://www.sanitysoftwares.com/imagg/software-development1.gif" width="230"> 
- 
-## You will find me here:
-<p align="center">
- <a href="https://www.linkedin.com/in/atrijoshi//" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="snjydas" height="40" width="30" /></a>
- <a href="https://www.kaggle.com/joshiatri" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="snjydas" height="40" width="30" /></a>
-
- <a href="https://leetcode.com/u/mythophile/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=40" alt="snjydas" height="40" width="30" /></a>
-
-
- 
-</p>
-
-## About Me:
-
-- 🌱 I’m currently learning **AI and Data Science**.
-
-- 👯 I’m looking to collaborate on [Loading]().
-
-- 💬 Ask me about **Python, Datascience, Data Engineering ,Machine Learning and Generative AI**.
-
-- 📫 How to reach me **atrijoshi12@gmail.com**.
-
-- ⚡ Fun fact **I would love to explore new thing and work on new technologies**.
-
-🤔 Looking for a job which would help me make most of my skills.
-
-&nbsp; &nbsp; *[View My Profile](https://www.linkedin.com/in/atrijoshi/)*
-&nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://www.linkedin.com/in/atrijoshi/)*
-<br />
-
-## Tech Stack
-
-<!-- <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  
- <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" width="40" height="40"
- </p> -->
- 
- - 💻&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-
- 
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MSSQLSERVER-333333?style=flat&logo=mssqlserver)&nbsp;
-   ![MongoDB](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)&nbsp;
-
-
-  
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
-
-- 📦 &nbsp;
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
-  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure)
-  ![DataBricks](https://img.shields.io/badge/-DataBricks-333333?style=flat&logo=DataBricks)
-  ![PySpark](https://img.shields.io/badge/-PySpark-333333?style=flat&logo=PySpark)
-  
-  
-  
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Anaconda](https://img.shields.io/badge/-anaconda-333333?style=flat&logo=anaconda&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-postman-333333?style=flat&logo=postman&logoColor=007ACC)
-
-
-## Tools I work upon : 🛠
-<img src="https://img.shields.io/badge/openai%20-%23000.svg?&style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> &nbsp;
-<br/>
-<br/>
-<br/>
-
-
-## Blogs Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
-
-## My Stats:
-
-<table>
-  <tr>
-    <td> 4️⃣: Internships Completed </td>
-    <td> ♾️: Projects Completed </td>
-    <td>  :Many: Guided Projects  </td>
-    <td>  2️⃣: Virtual Internships </td>
-  </tr>
-  <tr>
-    <td>  5️⃣: Golden Badges  </td>
-    <td>  :one::zero: Skills Verified </td>
-    <td>  ♾️: Online Courses  </td>
-    <td>  :one::ten: Github Repos </td>
-  </tr>
-</table>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akjoshi12&theme=graywhite&layout=compact&hide=html" alt="akjoshi12" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akjoshi12&theme=graywhite&show_icons=true" alt="akjoshi12" /></p>
-
-
-## My Programming Profiles:
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+  Hi, I'm Atri Joshi
+</h1>
+<h3 align="center">A Data Engineer and AI Developer specializing in intelligent data solutions.</h3>
 
 <p align="center">
-<a href="https://dev.to/abhi526691" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abhi526691" height="30" width="30" /></a>
-<a href="https://www.kaggle.com/abhi526691" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="snjydas" height="30" width="30" /></a>
-<a href="https://www.codechef.com/abhi10548" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="snjydas" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/abhi10548" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="snjydas" height="30" width="30" /></a>
-<a href="https://www.codeforces.com/abhi10548" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="snjydas" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/abhi10548" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="snjydas" height="30" width="30" /></a>
-<a href="https://www.hackerearth.com/abhi10548" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="snjydas" height="30" width="30" /></a>
-<a href="https://www.geeksforgeeks.com/abhi10548" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="snjydas" height="30" width="30" /></a>
-<a href="https://www.topcoder.com/abhi10548" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="snjydas" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/atrijoshi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:atrijoshi12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://akjoshi12.github.io/Portfolio-Website/" target="blank"><img src="https://img.shields.io/badge/Portfolio-0af?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQgNEgxMFY2SDRWNFpNNCAxMFY4SDE0VjEwSDRaTTEwIDE2SDRWMTRI MTBWMTZaTTIwIDE4SDRWMTZIMjBWMTguNVoiIGZpbGw9IiNmZmYiLz4KPC9zdmc+Cg==" /></a>
 </p>
 
-<div align="center">
+---
 
-##### Show some ❤️ by starring some of the repositories!
+<p align="center">
+  I build intelligent systems that bridge the gap between data and tangible outcomes. [cite_start]With professional experience as an **Azure Data Engineer**, I specialize in designing and maintaining scalable ETL pipelines and data warehouses[cite: 9, 12]. [cite_start]My passion lies in the rapidly evolving field of **Generative AI**, where I focus on building RAG pipelines and fine-tuning Large Language Models like Llama3 and Mistral to solve real-world challenges[cite: 7, 25, 26, 27].
+</p>
+<p align="center">
+  [cite_start]I am currently deepening my expertise through a graduate program in **AI & Data Science at Loyalist College, Toronto**[cite: 36, 38].
+</p>
 
-</div>
+---
+
+## 🛠️ Languages and Tools
+
+### **AI & Machine Learning**
+<p align="left">
+  <a href="#"><img alt="Generative AI" src="https://img.shields.io/badge/-Generative_AI-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTExIDE2VjIySDEzVjE2SDExWk03IDEwVjE2SDlWMTBİN1pNMTUgMTBWMThIMTdWMTAiIGZpbGw9IiNmZmYiLz4KPC9zdmc+Cg=="></a>
+  <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/-LangChain-101010?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggOEgyMFYxMEg4VjhaTTggMTJWMTZIMjBWMTJIOFpNMjIgOEgyNFY2SDIyVjhaTTIgOEg0VjZIMlY4WiIgZmlsbD0iI2ZmZiIvPgo8L3N2Zz4K"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"></a>
+</p>
+
+### **Data Engineering & ETL**
+<p align="left">
+  <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"></a>
+  <a href="#"><img alt="Azure Data Factory" src="https://img.shields.io/badge/Data_Factory-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"></a>
+  <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"></a>
+  <a href="#"><img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTkgMTZIMTdWMTQuNUg5VjE2Wk05IDExLjVIMTdWMTAiIGZpbGw9IiNmZmYiLz4KPC9zdmc+Cg=="></a>
+  <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black"></a>
+</p>
+
+### **Cloud & Other Tools**
+<p align="left">
+  <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
+  <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"></a>
+</p>
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akjoshi12&show_icons=true&theme=transparent&text_color=d6dce0&icon_color=0af&border_color=0b1730" alt="Atri Joshi's GitHub Stats" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akjoshi12&layout=compact&theme=transparent&text_color=d6dce0&hide=html,jupyter%20notebook&border_color=0b1730" alt="Top Languages" />
+</p>
+
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akjoshi12&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&border=0b1730&background=0b1730" alt="GitHub Streak" />
+</p>
