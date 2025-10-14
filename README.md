@@ -15,9 +15,6 @@
 <p align="center">
 I build intelligent systems that bridge the gap between data and tangible outcomes. With professional experience as an Azure Data Engineer, I specialize in designing and maintaining scalable ETL pipelines and data warehouses. My passion lies in the rapidly evolving field of Generative AI, where I focus on building RAG pipelines and fine-tuning Large Language Models like Llama3 and Mistral to solve real-world challenges.
 </p>
-<p align="center">
-  [cite_start]I am currently deepening my expertise through a graduate program in **AI & Data Science at Loyalist College, Toronto**[cite: 36, 38].
-</p>
 
 ---
 
