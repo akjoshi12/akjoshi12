@@ -2,7 +2,7 @@
 
 Data + AI engineer in Toronto. I build data pipelines and LLM applications, and I spend most of my effort on the part that usually gets skipped: checking whether they actually work.
 
-[LinkedIn](https://linkedin.com/in/atrijoshi) · [Portfolio]((https://atrijoshi.vercel.app/)) · atrijoshi12@gmail.com
+[LinkedIn](https://linkedin.com/in/atrijoshi) · [Portfolio](https://atrijoshi.vercel.app/) · atrijoshi12@gmail.com
 
 ---
 
