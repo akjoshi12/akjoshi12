@@ -1,33 +1,84 @@
+<div align="center">
+
 # Atri Joshi
 
-Data + AI engineer in Toronto. I build data pipelines and LLM applications, and I spend most of my effort on the part that usually gets skipped: checking whether they actually work.
+### Data & AI Engineer · Toronto
 
-[LinkedIn](https://linkedin.com/in/atrijoshi) · [Portfolio](https://atrijoshi.vercel.app/) · atrijoshi12@gmail.com
+**I build data pipelines and LLM systems, then measure whether they actually work.**
 
----
+<br>
 
-### Now
+[![Portfolio](https://img.shields.io/badge/Portfolio-atrijoshi.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://atrijoshi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atrijoshi)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atrijoshi12@gmail.com)
+![Status](https://img.shields.io/badge/Status-Open_to_roles-2EA043?style=for-the-badge)
 
-**AURA v2**: an emotional-support RAG chatbot. I'm rebuilding it around the data and the evaluation rather than the UI:
-- a balanced ~60k-turn corpus merged from four emotional-support datasets (ESConv, AugESC, ExTES, nart-100k) under one schema, with no topic above 15%
-- support-strategy labels from a two-model LLM labeler, with agreement reported as Cohen's κ against a hand-labelled gold set
-- per-topic evaluation, including adversarial and messy inputs, so a weak topic can't hide behind an average
+</div>
 
-### Selected work
+<br>
 
-| Project | What it is | Stack |
+## What I do
+
+Two years of data engineering (PySpark, SQL, Databricks, Snowflake) underneath LLM systems: RAG, agents and the evaluation harnesses that keep them honest. Everything below runs local-first on Apple Silicon, and every number comes from a logged run, not a guess.
+
+|  |  |
+|---|---|
+| **Build** | End-to-end LLM applications: retrieval, agents, voice and document pipelines |
+| **Measure** | Held-out gold sets, inter-annotator agreement, word-error rates, test-gated phases |
+| **Ship** | CI/CD, quality gates and monitoring; led an 8-engineer team to a live product |
+
+<br>
+
+## Featured work
+
+| Project | What it does | Proof |
 |---|---|---|
-| [AURA](https://github.com/akjoshi12/Aura---Emotional-Intelligence-RAG-based-Chatbot) | Local, privacy-first wellness chatbot (v1). Chose a quantized large model over a fine-tuned small one after fine-tuning degraded quality. | Python, ChromaDB, Ollama, Streamlit |
-| [MinuteMinders](https://minuteminders.web.app) | Meeting transcription and summarization assistant. Led an 8-person team; 7.5% WER on transcription. | Whisper, Pyannote, Mistral, FastAPI, React |
-| [resume-factory](https://github.com/akjoshi12/resume-factory) | Local-first resume and cover-letter generator. The model may select and rephrase my real experience but can't add facts. | Python, LangGraph, LaTeX |
-| [Audiocast](https://github.com/akjoshi12/Audiocast) | Turns an ebook into a full-cast audiobook, entirely local: an LLM labels speakers, each character gets an AI voice, plus an Android player. 97.6% word fidelity, 97.0% speaker attribution (single runs). | Python, FastAPI, VoxCPM2, LM Studio, Kotlin |
-| [PDF-to-Audiobook](https://github.com/akjoshi12/PDF-to-Audiobook-Streamlit) | Upload a PDF, pick a voice, get an MP3. | Python, Streamlit |
+| **[Audiocast](https://github.com/akjoshi12/Audiocast)** | Turns an ebook into a full-cast audiobook entirely on-device: an LLM labels who speaks, each character gets their own AI voice, music and effects are mixed in, and an Android app syncs chapters over the LAN. | **97.6%** word fidelity · **97.0%** speaker attribution · 1.15× real-time pipeline |
+| **[Resume Factory](https://github.com/akjoshi12/resume-factory)** | LangGraph agent with two human review gates. The model may rephrase my real experience but a verifier rejects any invented fact, number or tool. | 12-node graph · one page checked on every compile |
+| **[Project Redline](https://github.com/akjoshi12/redline)** | Stress-test and benchmark harness for a ~27B local model on an M4 Max, with every phase gated by green tests. | 23 passing tests · caught a **53×** silent measurement error |
+| **[AURA v2](https://github.com/akjoshi12/AURA-V2)** | Strategy-aware emotional-support RAG. A dual-LLM labeler unlocks unlabeled dialogue corpora, validated on a hand-labelled gold set. | 8 support strategies · 4 datasets · 300-turn held-out gold set |
+| **[MinuteMinders](https://minuteminders.web.app)** | Meeting audio to diarized transcript, summary and action items. I led the team and the CI/CD. | **7.5%** WER · 8 engineers · live in production |
 
-### Before this
+> Case studies with architecture, decisions and what didn't work: **[atrijoshi.vercel.app](https://atrijoshi.vercel.app/)**
 
-- **Data engineering (2022–23):** Azure Data Factory and Databricks pipelines moving ~200 GB across 100+ tables daily, with bronze/silver/gold data-quality tiers.
-- **Research intern (2021–22):** unified handwritten records, scanned PDFs, CSVs, legacy SQL and Excel into one analytics platform; built Flask dashboards for reporting.
+<br>
 
-### Tools
+## How I work
 
-Python · SQL · PySpark · Databricks · Azure Data Factory · Snowflake · Power BI · LangChain / LangGraph · Ollama · Git
+- **Gate every phase with a test.** Nothing moves on until the suite is green.
+- **Measure before claiming.** Numbers get cross-checked against a second source before they ship.
+- **Constrain, don't just prompt.** "Don't make things up" is enforced in code, not requested in a prompt.
+- **Report the failures.** Each case study lists what went wrong, because that's where the learning is.
+
+<br>
+
+## Experience
+
+**Associate Consultant, Teklink Software** · 2022–23
+Azure Data Factory and Databricks pipelines moving ~200 GB across 100+ tables daily, with bronze / silver / gold data-quality tiers.
+
+**Research Intern, Tech Mahindra** · 2021–22
+Unified handwritten records, scanned PDFs, CSVs, legacy SQL and Excel into one analytics platform; built Flask reporting dashboards.
+
+<br>
+
+## Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<br>
+
+<div align="center">
+
+**Open to Data & AI Engineer roles in Toronto and remote.** Let's talk: [atrijoshi12@gmail.com](mailto:atrijoshi12@gmail.com)
+
+</div>
