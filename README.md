@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-atrijoshi.vercel.app-131618?style=for-the-badge&logo=vercel&logoColor=4ADE80&labelColor=0B0D0E)](https://atrijoshi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-131618?style=for-the-badge&logo=linkedin&logoColor=4ADE80&labelColor=0B0D0E)](https://linkedin.com/in/atrijoshi)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-131618?style=for-the-badge&logo=gmail&logoColor=4ADE80&labelColor=0B0D0E)](mailto:atrijoshi12@gmail.com)
-![Status](https://img.shields.io/badge/Status-Open_to_roles-4ADE80?style=for-the-badge&labelColor=0B0D0E)
+![Open to roles](assets/status.svg)
 
 </div>
 

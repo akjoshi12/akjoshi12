@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 96" width="1000" height="96" role="img" aria-label="Open to Data and AI Engineer roles in Toronto and remote. atrijoshi12@gmail.com">
   <rect x="0.5" y="0.5" width="999" height="95" rx="14" fill="#0B0D0E" stroke="#262B2F"/>
   <circle cx="500" cy="30" r="5" fill="#4ADE80"><animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></circle>
-  <text x="500" y="58" text-anchor="middle" font-size="18" font-weight="600" font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E7EAEC">Open to Data &amp; AI Engineer roles · Toronto and remote</text>
+  <text x="500" y="58" text-anchor="middle" font-size="18" font-weight="600" font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#4ADE80">Open to Data &amp; AI Engineer roles · Toronto and remote</text>
   <text x="500" y="80" text-anchor="middle" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#4ADE80">atrijoshi12@gmail.com</text>
 </svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 40" width="190" height="40" role="img" aria-label="Open to roles">
+  <rect x="0.5" y="0.5" width="189" height="39" rx="6" fill="#0B0D0E" stroke="#4ADE80"/>
+  <circle cx="22" cy="20" r="5" fill="#4ADE80"><animate attributeName="r" values="5;7.5;5" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="38" y="25" font-size="13" font-weight="700" letter-spacing="1.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#4ADE80">OPEN TO ROLES</text>
+</svg>

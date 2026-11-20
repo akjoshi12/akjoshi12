@@ -32,7 +32,7 @@
   </text>
     <g transform="translate(500 212)">
       <circle cx="-62" cy="0" r="5" fill="#4ADE80"><animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></circle>
-      <text x="-48" y="5" font-size="14" fill="#9AA3AB">Open to roles</text>
+      <text x="-48" y="5" font-size="14" fill="#4ADE80">Open to roles</text>
     </g>
   </g>
 </svg>
