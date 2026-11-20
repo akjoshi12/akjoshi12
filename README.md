@@ -11,7 +11,7 @@
 
 </div>
 
-<br>
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## What I do
 
@@ -23,7 +23,7 @@ Two years of data engineering (PySpark, SQL, Databricks, Snowflake) underneath L
 | **Measure** | Held-out gold sets, inter-annotator agreement, word-error rates, test-gated phases |
 | **Ship** | CI/CD, quality gates and monitoring; led an 8-engineer team to a live product |
 
-<br>
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## Featured work
 
@@ -37,7 +37,7 @@ Two years of data engineering (PySpark, SQL, Databricks, Snowflake) underneath L
 
 > Case studies with architecture, decisions and what didn't work: **[atrijoshi.vercel.app](https://atrijoshi.vercel.app/)**
 
-<br>
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## How I work
 
@@ -46,7 +46,7 @@ Two years of data engineering (PySpark, SQL, Databricks, Snowflake) underneath L
 - **Constrain, don't just prompt.** "Don't make things up" is enforced in code, not requested in a prompt.
 - **Report the failures.** Each case study lists what went wrong, because that's where the learning is.
 
-<br>
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## Experience
 
@@ -56,7 +56,7 @@ Azure Data Factory and Databricks pipelines moving ~200 GB across 100+ tables da
 **Research Intern, Tech Mahindra** · 2021–22
 Unified handwritten records, scanned PDFs, CSVs, legacy SQL and Excel into one analytics platform; built Flask reporting dashboards.
 
-<br>
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## Toolbox
 
