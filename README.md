@@ -50,17 +50,19 @@ Unified handwritten records, scanned PDFs, CSVs, legacy SQL and Excel into one a
 
 <h2><img src="assets/h-toolbox.svg" alt="Toolbox" width="100%"></h2>
 
-![Python](https://img.shields.io/badge/Python-131618?style=flat-square&logo=python&logoColor=4ADE80&labelColor=0B0D0E)
-![SQL](https://img.shields.io/badge/SQL-131618?style=flat-square&logo=postgresql&logoColor=4ADE80&labelColor=0B0D0E)
-![PySpark](https://img.shields.io/badge/PySpark-131618?style=flat-square&logo=apachespark&logoColor=4ADE80&labelColor=0B0D0E)
-![Databricks](https://img.shields.io/badge/Databricks-131618?style=flat-square&logo=databricks&logoColor=4ADE80&labelColor=0B0D0E)
-![Snowflake](https://img.shields.io/badge/Snowflake-131618?style=flat-square&logo=snowflake&logoColor=4ADE80&labelColor=0B0D0E)
-![FastAPI](https://img.shields.io/badge/FastAPI-131618?style=flat-square&logo=fastapi&logoColor=4ADE80&labelColor=0B0D0E)
-![LangGraph](https://img.shields.io/badge/LangGraph-131618?style=flat-square&labelColor=0B0D0E)
-![PyTorch](https://img.shields.io/badge/PyTorch-131618?style=flat-square&logo=pytorch&logoColor=4ADE80&labelColor=0B0D0E)
-![Kotlin](https://img.shields.io/badge/Kotlin-131618?style=flat-square&logo=kotlin&logoColor=4ADE80&labelColor=0B0D0E)
-![Git](https://img.shields.io/badge/Git-131618?style=flat-square&logo=git&logoColor=4ADE80&labelColor=0B0D0E)
+| | |
+|---|---|
+| **Languages** | Python · SQL · R · JavaScript · Bash |
+| **Machine Learning** | scikit-learn · PyTorch · TensorFlow · MLflow · Azure Machine Learning · NumPy · Pandas · Generative Models (VAE/CGAN) · Computer Vision · Object Detection (YOLOv8) · NLP · Speech Recognition (ASR) |
+| **Generative AI &amp; LLMs** | LLMs (Claude, OpenAI, Local Models) · RAG · LangGraph · LangChain · Vector Search & Embeddings · Prompt Engineering · Context Engineering · Agentic Workflows · Human-in-the-Loop Design · Model Context Protocol (MCP) · LLM Evaluation (LLM-as-Judge) · LLMOps (CI/CD, Monitoring & Evaluation) · Structured Outputs |
+| **LLM &amp; NLP Tooling** | Hugging Face · Whisper · Pyannote · spaCy · Mistral API · Groq · LM Studio · Ollama · Model Quantization (GGUF) · OpenAI-Compatible APIs · Flux (Diffusion) |
+| **Data Engineering** | Microsoft Fabric · PySpark · Apache Spark · Databricks† · Delta Lake† · Azure Data Factory† · Snowflake† · ETL/ELT Pipelines · Lakehouse (Medallion Architecture) · Batch Data Ingestion · JSON Parsing |
+| **Databases &amp; Cloud** | MySQL · PostgreSQL · SQLite · Elasticsearch · Microsoft Azure · Data Modelling (Star/Snowflake Schema) · Google Cloud Platform (GCP) · Oracle Cloud |
+| **Data Quality &amp; Governance** | Validation & Reconciliation · Data Quality Rules · Root-Cause Analysis · Data Documentation · Inter-Annotator Agreement (Cohen's Kappa) |
+| **Analytics &amp; Reporting** | Power BI† · Power Query (M) · DAX† · KPI Development · Excel (Pivot Tables) · Exploratory Data Analysis · Descriptive Statistics · Dashboard Design · Stakeholder Reporting |
+| **Backend &amp; Frameworks** | FastAPI · Flask · Streamlit · REST APIs · Pydantic · Reflex · React · GitHub · Linux |
+| **DevOps &amp; Tooling** | MLOps (Model Containerization & Deployment) · CI/CD · Docker · Docker Compose · Azure Container Registry · Git · Jenkins · SonarQube · Prometheus · pytest · ruff · mypy · uv · Tailscale |
 
-<br>
+<sub>† Real production experience, not used since 2023.</sub>
 
 <a href="mailto:atrijoshi12@gmail.com"><img src="assets/footer.svg" alt="Open to Data and AI Engineer roles in Toronto and remote. atrijoshi12@gmail.com" width="100%"></a>
