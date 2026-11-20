@@ -1,28 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" role="img" aria-label="Atri Joshi, Data and AI Engineer in Toronto">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1020"><animate attributeName="stop-color" values="#0b1020;#111a3a;#0b1020" dur="10s" repeatCount="indefinite"/></stop>
-      <stop offset="1" stop-color="#0f172a"><animate attributeName="stop-color" values="#0f172a;#0b2a3a;#0f172a" dur="10s" repeatCount="indefinite"/></stop>
-    </linearGradient>
-    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#60a5fa"><animate attributeName="stop-color" values="#60a5fa;#34d399;#60a5fa" dur="6s" repeatCount="indefinite"/></stop><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#34d399"><animate attributeName="stop-color" values="#34d399;#60a5fa;#34d399" dur="6s" repeatCount="indefinite"/></stop>
-    </linearGradient>
-    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
     <clipPath id="c"><rect width="1000" height="240" rx="16"/></clipPath>
   </defs>
   <g clip-path="url(#c)">
-    <rect width="1000" height="240" fill="url(#bg)"/>
-    <g filter="url(#blur)" opacity="0.55">
-      <circle cx="180" cy="60" r="70" fill="#3b82f6"><animateTransform attributeName="transform" type="translate" values="0 0;120 40;0 0" dur="12s" repeatCount="indefinite"/></circle>
-      <circle cx="820" cy="190" r="80" fill="#10b981"><animateTransform attributeName="transform" type="translate" values="0 0;-140 -50;0 0" dur="14s" repeatCount="indefinite"/></circle>
-      <circle cx="560" cy="40" r="55" fill="#8b5cf6"><animateTransform attributeName="transform" type="translate" values="0 0;-80 60;0 0" dur="11s" repeatCount="indefinite"/></circle>
+    <rect width="1000" height="240" fill="#0d1117"/>
+    <rect x="0.5" y="0.5" width="999" height="239" rx="16" fill="none" stroke="#30363d"/>
     </g>
-  </g>
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="500" y="92" text-anchor="middle" font-size="52" font-weight="700" fill="url(#name)">Atri Joshi
+    <text x="500" y="92" text-anchor="middle" font-size="52" font-weight="700" fill="#f0f6fc">Atri Joshi
       </text>
     <text x="500" y="122" text-anchor="middle" font-size="18" letter-spacing="3" fill="#94a3b8">DATA &amp; AI ENGINEER · TORONTO</text>
-  <text x="500" y="168" text-anchor="middle" font-size="22" fill="#cbd5e1" opacity="0">I build data pipelines and LLM systems.
+  <rect x="440" y="134" width="120" height="2" rx="1" fill="#30363d"/>
+    <rect x="440" y="134" width="40" height="2" rx="1" fill="#58a6ff"><animate attributeName="x" values="440;520;440" dur="4s" repeatCount="indefinite"/></rect>
+    <text x="500" y="168" text-anchor="middle" font-size="22" fill="#cbd5e1" opacity="0">I build data pipelines and LLM systems.
     <animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.04;0.21;0.25;1" values="0;1;1;0;0"/>
   </text>
   <text x="500" y="168" text-anchor="middle" font-size="22" fill="#cbd5e1" opacity="0">Then I measure whether they actually work.
