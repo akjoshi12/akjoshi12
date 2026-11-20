@@ -4,16 +4,14 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-atrijoshi.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://atrijoshi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atrijoshi)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atrijoshi12@gmail.com)
-![Status](https://img.shields.io/badge/Status-Open_to_roles-2EA043?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-atrijoshi.vercel.app-131618?style=for-the-badge&logo=vercel&logoColor=4ADE80&labelColor=0B0D0E)](https://atrijoshi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-131618?style=for-the-badge&logo=linkedin&logoColor=4ADE80&labelColor=0B0D0E)](https://linkedin.com/in/atrijoshi)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-131618?style=for-the-badge&logo=gmail&logoColor=4ADE80&labelColor=0B0D0E)](mailto:atrijoshi12@gmail.com)
+![Status](https://img.shields.io/badge/Status-Open_to_roles-4ADE80?style=for-the-badge&labelColor=0B0D0E)
 
 </div>
 
-<img src="assets/divider.svg?v=2" alt="" width="100%">
-
-## What I do
+<h2><img src="assets/h-what-i-do.svg" alt="What I do" width="100%"></h2>
 
 Two years of data engineering (PySpark, SQL, Databricks, Snowflake) underneath LLM systems: RAG, agents and the evaluation harnesses that keep them honest. Everything below runs local-first on Apple Silicon, and every number comes from a logged run, not a guess.
 
@@ -23,9 +21,7 @@ Two years of data engineering (PySpark, SQL, Databricks, Snowflake) underneath L
 | **Measure** | Held-out gold sets, inter-annotator agreement, word-error rates, test-gated phases |
 | **Ship** | CI/CD, quality gates and monitoring; led an 8-engineer team to a live product |
 
-<img src="assets/divider.svg?v=2" alt="" width="100%">
-
-## Featured work
+<h2><img src="assets/h-featured-work.svg" alt="Featured work" width="100%"></h2>
 
 | Project | What it does | Proof |
 |---|---|---|
@@ -37,18 +33,14 @@ Two years of data engineering (PySpark, SQL, Databricks, Snowflake) underneath L
 
 > Case studies with architecture, decisions and what didn't work: **[atrijoshi.vercel.app](https://atrijoshi.vercel.app/)**
 
-<img src="assets/divider.svg?v=2" alt="" width="100%">
-
-## How I work
+<h2><img src="assets/h-how-i-work.svg" alt="How I work" width="100%"></h2>
 
 - **Gate every phase with a test.** Nothing moves on until the suite is green.
 - **Measure before claiming.** Numbers get cross-checked against a second source before they ship.
 - **Constrain, don't just prompt.** "Don't make things up" is enforced in code, not requested in a prompt.
 - **Report the failures.** Each case study lists what went wrong, because that's where the learning is.
 
-<img src="assets/divider.svg?v=2" alt="" width="100%">
-
-## Experience
+<h2><img src="assets/h-experience.svg" alt="Experience" width="100%"></h2>
 
 **Associate Consultant, Teklink Software** · 2022–23
 Azure Data Factory and Databricks pipelines moving ~200 GB across 100+ tables daily, with bronze / silver / gold data-quality tiers.
@@ -56,25 +48,19 @@ Azure Data Factory and Databricks pipelines moving ~200 GB across 100+ tables da
 **Research Intern, Tech Mahindra** · 2021–22
 Unified handwritten records, scanned PDFs, CSVs, legacy SQL and Excel into one analytics platform; built Flask reporting dashboards.
 
-<img src="assets/divider.svg?v=2" alt="" width="100%">
+<h2><img src="assets/h-toolbox.svg" alt="Toolbox" width="100%"></h2>
 
-## Toolbox
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-131618?style=flat-square&logo=python&logoColor=4ADE80&labelColor=0B0D0E)
+![SQL](https://img.shields.io/badge/SQL-131618?style=flat-square&logo=postgresql&logoColor=4ADE80&labelColor=0B0D0E)
+![PySpark](https://img.shields.io/badge/PySpark-131618?style=flat-square&logo=apachespark&logoColor=4ADE80&labelColor=0B0D0E)
+![Databricks](https://img.shields.io/badge/Databricks-131618?style=flat-square&logo=databricks&logoColor=4ADE80&labelColor=0B0D0E)
+![Snowflake](https://img.shields.io/badge/Snowflake-131618?style=flat-square&logo=snowflake&logoColor=4ADE80&labelColor=0B0D0E)
+![FastAPI](https://img.shields.io/badge/FastAPI-131618?style=flat-square&logo=fastapi&logoColor=4ADE80&labelColor=0B0D0E)
+![LangGraph](https://img.shields.io/badge/LangGraph-131618?style=flat-square&labelColor=0B0D0E)
+![PyTorch](https://img.shields.io/badge/PyTorch-131618?style=flat-square&logo=pytorch&logoColor=4ADE80&labelColor=0B0D0E)
+![Kotlin](https://img.shields.io/badge/Kotlin-131618?style=flat-square&logo=kotlin&logoColor=4ADE80&labelColor=0B0D0E)
+![Git](https://img.shields.io/badge/Git-131618?style=flat-square&logo=git&logoColor=4ADE80&labelColor=0B0D0E)
 
 <br>
 
-<div align="center">
-
-**Open to Data & AI Engineer roles in Toronto and remote.** Let's talk: [atrijoshi12@gmail.com](mailto:atrijoshi12@gmail.com)
-
-</div>
+<a href="mailto:atrijoshi12@gmail.com"><img src="assets/footer.svg" alt="Open to Data and AI Engineer roles in Toronto and remote. atrijoshi12@gmail.com" width="100%"></a>

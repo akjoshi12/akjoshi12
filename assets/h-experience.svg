@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 52" width="1000" height="52" role="img" aria-label="Experience">
+  <rect x="0.5" y="0.5" width="999" height="51" rx="10" fill="#0B0D0E" stroke="#262B2F"/>
+  <text x="24" y="33" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#4ADE80">04</text>
+  <text x="60" y="33" font-size="20" font-weight="700" font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E7EAEC">Experience</text>
+  <rect x="24" y="47" width="952" height="1" fill="#262B2F"/>
+  <rect x="24" y="46" width="90" height="2" rx="1" fill="#4ADE80"><animate attributeName="x" values="24;886;24" dur="6s" repeatCount="indefinite"/></rect>
+</svg>
