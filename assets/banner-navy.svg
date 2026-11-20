@@ -6,20 +6,14 @@
     <rect width="1000" height="240" fill="#070d24"/>
     </g>
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="512" y="96.0" text-anchor="middle" font-size="56" font-weight="800" fill="#000" opacity="0.18">Atri Joshi</text>
-    <text x="509.6" y="91.6" text-anchor="middle" font-size="56" font-weight="800" fill="#1b348f">Atri Joshi</text>
-    <text x="508.8" y="90.8" text-anchor="middle" font-size="56" font-weight="800" fill="#213c98">Atri Joshi</text>
-    <text x="508.0" y="90.0" text-anchor="middle" font-size="56" font-weight="800" fill="#2844a1">Atri Joshi</text>
-    <text x="507.2" y="89.2" text-anchor="middle" font-size="56" font-weight="800" fill="#2e4dab">Atri Joshi</text>
-    <text x="506.4" y="88.4" text-anchor="middle" font-size="56" font-weight="800" fill="#3555b4">Atri Joshi</text>
-    <text x="505.6" y="87.6" text-anchor="middle" font-size="56" font-weight="800" fill="#3b5dbd">Atri Joshi</text>
-    <text x="504.8" y="86.8" text-anchor="middle" font-size="56" font-weight="800" fill="#4266c7">Atri Joshi</text>
-    <text x="504.0" y="86.0" text-anchor="middle" font-size="56" font-weight="800" fill="#496ed0">Atri Joshi</text>
-    <text x="503.2" y="85.2" text-anchor="middle" font-size="56" font-weight="800" fill="#4f76d9">Atri Joshi</text>
-    <text x="502.4" y="84.4" text-anchor="middle" font-size="56" font-weight="800" fill="#567fe3">Atri Joshi</text>
-    <text x="501.6" y="83.6" text-anchor="middle" font-size="56" font-weight="800" fill="#5c87ec">Atri Joshi</text>
-    <text x="500.8" y="82.8" text-anchor="middle" font-size="56" font-weight="800" fill="#638ff5">Atri Joshi</text>
-    <text x="500" y="82.0" text-anchor="middle" font-size="56" font-weight="800" fill="#ffffff">Atri Joshi</text>
+    <text x="508.4" y="93.4" text-anchor="middle" font-size="54" font-weight="700" letter-spacing="3" fill="#000" opacity="0.35">Atri Joshi</text>
+    <text x="505.4" y="89.4" text-anchor="middle" font-size="54" font-weight="700" letter-spacing="3" fill="#142466">Atri Joshi</text>
+    <text x="504.5" y="88.5" text-anchor="middle" font-size="54" font-weight="700" letter-spacing="3" fill="#1a2e78">Atri Joshi</text>
+    <text x="503.6" y="87.6" text-anchor="middle" font-size="54" font-weight="700" letter-spacing="3" fill="#21388b">Atri Joshi</text>
+    <text x="502.7" y="86.7" text-anchor="middle" font-size="54" font-weight="700" letter-spacing="3" fill="#28439e">Atri Joshi</text>
+    <text x="501.8" y="85.8" text-anchor="middle" font-size="54" font-weight="700" letter-spacing="3" fill="#2f4db0">Atri Joshi</text>
+    <text x="500.9" y="84.9" text-anchor="middle" font-size="54" font-weight="700" letter-spacing="3" fill="#3657c3">Atri Joshi</text>
+    <text x="500" y="84" text-anchor="middle" font-size="54" font-weight="700" letter-spacing="3" fill="#ffffff">Atri Joshi</text>
     <text x="500" y="122" text-anchor="middle" font-size="18" letter-spacing="3" fill="#dbe6ff">DATA &amp; AI ENGINEER · TORONTO</text>
   <rect x="440" y="134" width="120" height="2" rx="1" fill="#ffffff" opacity="0.3"/>
     <rect x="440" y="134" width="40" height="2" rx="1" fill="#ffffff"><animate attributeName="x" values="440;520;440" dur="4s" repeatCount="indefinite"/></rect>

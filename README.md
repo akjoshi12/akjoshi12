@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-navy.svg" alt="Atri Joshi, Data and AI Engineer in Toronto" width="100%">
+<img src="assets/banner-navy.svg?v=2" alt="Atri Joshi, Data and AI Engineer in Toronto" width="100%">
 
 <br>
 
