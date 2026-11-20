@@ -20,6 +20,7 @@ Data + AI engineer in Toronto. I build data pipelines and LLM applications, and 
 | [AURA](https://github.com/akjoshi12/Aura---Emotional-Intelligence-RAG-based-Chatbot) | Local, privacy-first wellness chatbot (v1). Chose a quantized large model over a fine-tuned small one after fine-tuning degraded quality. | Python, ChromaDB, Ollama, Streamlit |
 | [MinuteMinders](https://minuteminders.web.app) | Meeting transcription and summarization assistant. Led an 8-person team; 7.5% WER on transcription. | Whisper, Pyannote, Mistral, FastAPI, React |
 | [resume-factory](https://github.com/akjoshi12/resume-factory) | Local-first resume and cover-letter generator. The model may select and rephrase my real experience but can't add facts. | Python, LangGraph, LaTeX |
+| [Audiocast](https://github.com/akjoshi12/Audiocast) | Turns an ebook into a full-cast audiobook, entirely local: an LLM labels speakers, each character gets an AI voice, plus an Android player. 97.6% word fidelity, 97.0% speaker attribution (single runs). | Python, FastAPI, VoxCPM2, LM Studio, Kotlin |
 | [PDF-to-Audiobook](https://github.com/akjoshi12/PDF-to-Audiobook-Streamlit) | Upload a PDF, pick a voice, get an MP3. | Python, Streamlit |
 
 ### Before this
