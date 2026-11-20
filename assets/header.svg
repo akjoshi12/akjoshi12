@@ -3,30 +3,41 @@
     <clipPath id="c"><rect width="1000" height="240" rx="16"/></clipPath>
   </defs>
   <g clip-path="url(#c)">
-    <rect width="1000" height="240" fill="#0d1117"/>
-    <rect x="0.5" y="0.5" width="999" height="239" rx="16" fill="none" stroke="#30363d"/>
+    <rect width="1000" height="240" fill="#2f5bea"/>
     </g>
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="500" y="92" text-anchor="middle" font-size="52" font-weight="700" fill="#f0f6fc">Atri Joshi
-      </text>
-    <text x="500" y="122" text-anchor="middle" font-size="18" letter-spacing="3" fill="#94a3b8">DATA &amp; AI ENGINEER · TORONTO</text>
-  <rect x="440" y="134" width="120" height="2" rx="1" fill="#30363d"/>
-    <rect x="440" y="134" width="40" height="2" rx="1" fill="#58a6ff"><animate attributeName="x" values="440;520;440" dur="4s" repeatCount="indefinite"/></rect>
-    <text x="500" y="168" text-anchor="middle" font-size="22" fill="#cbd5e1" opacity="0">I build data pipelines and LLM systems.
+    <text x="512" y="96.0" text-anchor="middle" font-size="56" font-weight="800" fill="#000" opacity="0.18">Atri Joshi</text>
+    <text x="509.6" y="91.6" text-anchor="middle" font-size="56" font-weight="800" fill="#0c1c5a">Atri Joshi</text>
+    <text x="508.8" y="90.8" text-anchor="middle" font-size="56" font-weight="800" fill="#0e2062">Atri Joshi</text>
+    <text x="508.0" y="90.0" text-anchor="middle" font-size="56" font-weight="800" fill="#11246b">Atri Joshi</text>
+    <text x="507.2" y="89.2" text-anchor="middle" font-size="56" font-weight="800" fill="#132874">Atri Joshi</text>
+    <text x="506.4" y="88.4" text-anchor="middle" font-size="56" font-weight="800" fill="#162c7d">Atri Joshi</text>
+    <text x="505.6" y="87.6" text-anchor="middle" font-size="56" font-weight="800" fill="#183086">Atri Joshi</text>
+    <text x="504.8" y="86.8" text-anchor="middle" font-size="56" font-weight="800" fill="#1b348f">Atri Joshi</text>
+    <text x="504.0" y="86.0" text-anchor="middle" font-size="56" font-weight="800" fill="#1d3897">Atri Joshi</text>
+    <text x="503.2" y="85.2" text-anchor="middle" font-size="56" font-weight="800" fill="#203ca0">Atri Joshi</text>
+    <text x="502.4" y="84.4" text-anchor="middle" font-size="56" font-weight="800" fill="#2240a9">Atri Joshi</text>
+    <text x="501.6" y="83.6" text-anchor="middle" font-size="56" font-weight="800" fill="#2544b2">Atri Joshi</text>
+    <text x="500.8" y="82.8" text-anchor="middle" font-size="56" font-weight="800" fill="#2748bb">Atri Joshi</text>
+    <text x="500" y="82.0" text-anchor="middle" font-size="56" font-weight="800" fill="#ffffff">Atri Joshi</text>
+    <text x="500" y="122" text-anchor="middle" font-size="18" letter-spacing="3" fill="#dbe6ff">DATA &amp; AI ENGINEER · TORONTO</text>
+  <rect x="440" y="134" width="120" height="2" rx="1" fill="#ffffff" opacity="0.3"/>
+    <rect x="440" y="134" width="40" height="2" rx="1" fill="#ffffff"><animate attributeName="x" values="440;520;440" dur="4s" repeatCount="indefinite"/></rect>
+    <text x="500" y="168" text-anchor="middle" font-size="22" fill="#ffffff" opacity="0">I build data pipelines and LLM systems.
     <animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.04;0.21;0.25;1" values="0;1;1;0;0"/>
   </text>
-  <text x="500" y="168" text-anchor="middle" font-size="22" fill="#cbd5e1" opacity="0">Then I measure whether they actually work.
+  <text x="500" y="168" text-anchor="middle" font-size="22" fill="#ffffff" opacity="0">Then I measure whether they actually work.
     <animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.25;0.29;0.46;0.5;1" values="0;0;1;1;0;0"/>
   </text>
-  <text x="500" y="168" text-anchor="middle" font-size="22" fill="#cbd5e1" opacity="0">Local-first. Test-gated. No invented facts.
+  <text x="500" y="168" text-anchor="middle" font-size="22" fill="#ffffff" opacity="0">Local-first. Test-gated. No invented facts.
     <animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.5;0.54;0.71;0.75;1" values="0;0;1;1;0;0"/>
   </text>
-  <text x="500" y="168" text-anchor="middle" font-size="22" fill="#cbd5e1" opacity="0">97.6% word fidelity · 53× error caught · 8-engineer team led
+  <text x="500" y="168" text-anchor="middle" font-size="22" fill="#ffffff" opacity="0">97.6% word fidelity · 53× error caught · 8-engineer team led
     <animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.75;0.79;0.96;1.0" values="0;0;1;1;0"/>
   </text>
     <g transform="translate(500 212)">
-      <circle cx="-62" cy="0" r="5" fill="#22c55e"><animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></circle>
-      <text x="-48" y="5" font-size="14" fill="#e2e8f0">Open to roles</text>
+      <circle cx="-62" cy="0" r="5" fill="#ffffff"><animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></circle>
+      <text x="-48" y="5" font-size="14" fill="#ffffff">Open to roles</text>
     </g>
   </g>
 </svg>
