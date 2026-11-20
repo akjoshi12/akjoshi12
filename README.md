@@ -1,10 +1,6 @@
 <div align="center">
 
-# Atri Joshi
-
-### Data & AI Engineer · Toronto
-
-**I build data pipelines and LLM systems, then measure whether they actually work.**
+<img src="assets/header.svg" alt="Atri Joshi, Data and AI Engineer in Toronto" width="100%">
 
 <br>
 
